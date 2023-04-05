@@ -1,7 +1,7 @@
 <h1>Capstone Student Commute 2023</h1>
 <body class="c2 doc-content">
 
-<p class="c8"><span class="c14">Supervisor: Khalil El-Khatib</span></p>
+<p class="c8"><span class="c14">Supervisor: Dr. Khalil El-Khatib</span></p>
 <p class="c8"><span class="c14">Team Leader: Nicholas Hughes</span></p>
 <p class="c8"><span class="c14">Team Members: Franklin Muhuni, Matthew Denniston, Anoje Janathanan</span></p>
 
