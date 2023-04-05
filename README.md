@@ -38,7 +38,7 @@
 <p class="c19"><span class="c1"><a class="c3" href="#h.h0unzue9h6sr">9.0 Create Graphs</a></span></p>
 
 <h1 class="c6 c16 c25" id="h.slvyhgheush3"><span class="c15"></span></h1><h1 class="c6 c16" id="h.l6nbmjm2qpol"><span class="c15">1.0 Download Files</span></h1>
-<p class="c6 c10"><span class="c14">Download the code from the "code" folder above.</p>
+<p class="c6 c10"><span class="c14">Download the code from the "Source Code" folder above.</p>
 
 <p class="c6 c9"><span class="c11"></span></p><h1 class="c6 c16" id="h.w1eobegdrgng"><span class="c15">2.0 Setup Postgres</span></h1>
 <h2 class="c6 c16" id="h.9fg7lmk175xq"><span class="c7">2.1 Download Postgres</span></h2>
