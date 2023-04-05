@@ -1,8 +1,9 @@
 <h1>Capstone Student Commute 2023</h1>
 <body class="c2 doc-content">
 
-<p class="c8"><span class="c14">Team Leader: Nicholas Hughes </span></p>
-<p class="c8"><span class="c14">Team Members: Franklin Muhuni, Matthew Denniston, Anoje Janathanan </span></p>
+<p class="c8"><span class="c14">Supervisor: Khalil El-Khatib</span></p>
+<p class="c8"><span class="c14">Team Leader: Nicholas Hughes</span></p>
+<p class="c8"><span class="c14">Team Members: Franklin Muhuni, Matthew Denniston, Anoje Janathanan</span></p>
 
 <h1 class="c6 c25 c16" id="h.uyo7sfip139m"><span class="c15">Table of Contents:</span></h1>
 
