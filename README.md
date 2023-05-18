@@ -16,7 +16,7 @@
 - Excel (Visualization)
 
 ### Data Sources:
-The data we used consisted of student enrolment data provided to us by the school and consisted of some of the following attributes:
+The data we used consisted of two semesters of student enrolment data provided to us by the school and consisted of some of the following attributes:
 - Term Code
 - Student ID
 - City & Postal Code
