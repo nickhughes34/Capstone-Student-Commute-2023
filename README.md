@@ -29,7 +29,7 @@ In accordance with the agreement our team signed at the begin of the project, we
 ![ERD](https://i.imgur.com/0wpa7tv.png)
 
 # Project Files
-For more information or insight regarding these files see the second branch of this repository where our entire process is documented in the README.
+For more information or insight regarding these files see the [second branch](https://github.com/nickhughes34/Capstone-Student-Commute-2023/tree/main) of this repository where our entire process is documented in the README.
 - ***ParseExcel.py*** - Parses through initial dataset, cleaning and prepping the file as input to query Google Maps Platform API.
 - ***StudentCommute.py*** - Takes output from ParseExcel.py, requests route data from Google Maps and appends entries to DB.
 - ***Query.py files*** - Defines the functions used in StudentCommute.py to query data from the local DB.
