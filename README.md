@@ -1,4 +1,4 @@
-# Capstone Study Project | Group 15: Student Commute Analysis
+# Group 15: Student Commute Analysis Project
 **Client/Supervisor:** Dr. Khalil El-Khatib, Faculty of Business & IT (FBIT)
 
 **Project Team:** Nicholas Hughes *(Team Lead)*, Matthew Denniston, Anoje Janathanan, Franklin Muhuni
